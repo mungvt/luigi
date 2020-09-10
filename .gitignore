@@ -1,0 +1,9 @@
+.idea/
+airlines.json
+/dryrun
+__pycache__
+/venv
+/csv
+setup.cfg
+/config
+/log
